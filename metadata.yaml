@@ -1,0 +1,30 @@
+_repo: Reminiscences-of-Queensland1862-1869_27099
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Corfield, W. H. (William Henry)
+    alias: Corfield, William Henry
+    birthdate: 1843
+    deathdate: 1903
+    gutenberg_agent_id: '32455'
+    url: http://www.gutenberg.org/2009/agents/32455
+    wikipedia: http://www.adb.online.anu.edu.au/biogs/A030432b.htm
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2008-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27099'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Frontier and pioneer life -- Australia -- Queensland'
+- !lcsh 'Queensland -- History'
+title: Reminiscences of Queensland, 1862-1869
+url: http://www.gutenberg.org/ebooks/27099
